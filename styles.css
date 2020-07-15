@@ -646,3 +646,8 @@ footer {
         transform: translateY(-1rem);
     }
 }
+/* Module */
+
+.swal2-popup, .swal2-modal, .swal2-icon-info, .swal2-show {
+    font-size: 16px;
+}
